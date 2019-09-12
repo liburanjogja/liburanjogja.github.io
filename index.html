@@ -1,13 +1,32 @@
+
+<p>@LiburanJogja™ adalah layanan satu atap untuk segala kebutuhan wisata anda di Jogja.</p>
+<p>@LiburanJogja™, sering ditulis juga dengan "LiburanJogja" atau "Liburan Jogja", merupakan Tour Operator atau EO Wisata yang menjual paket wisata untuk outing — gathering, outbound — team building, dan persewaan mobil sebagai lini jasa utamanya.</p>
+	
+
+<h3>Visi & Misi @LiburanJogja</h3>
+
+<h4>Visi:</h4>
+"Deliver Smiles in Reasonable Price."
+
+<h4>Misi:</h4>
+"To provide safe, fun, and unforgettable valued-trip-experiences that creates memories and smiles that last a lifetime with well-planned and calculated Itineraries."
+
+
+
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
+
     <link rel="icon" href="https://cdn.staticaly.com/gh/liburanjogja/external/master/favicon.png" type="image/png" sizes="32x32 192x192"/>
     <link rel="apple-touch-icon" href="https://cdn.staticaly.com/gh/liburanjogja/external/master/favicon.png" type="image/png" sizes="180x180"/>
-  <style id="liburan-jogja" type="text/css">
-	@font-face{font-family:PT Sans;font-style:normal;font-weight:700;font-display:swap;src:local("PT Sans Bold"),local("PTSans-Bold"),url(https://cdn.staticaly.com/gh/liburanjogja/external/master/PTsans700.woff2) format("woff2")}
- html {
+
+<style id="liburan-jogja" type="text/css">
+
+@font-face{font-family:PT Sans;font-style:normal;font-weight:700;font-display:swap;src:local("PT Sans Bold"),local("PTSans-Bold"),url(https://cdn.staticaly.com/gh/liburanjogja/external/master/PTsans700.woff2) format("woff2")}
+ h1,h2,h3,h4,h5 {
 	font: normal 14.5px / 1.5'PT Sans';
+	letter-spacing: .04rem;
 	-webkit-font-smoothing: antialiased;
 	text-size-adjust: 0.58;
 	-webkit-text-size-adjust: 0.58;
@@ -15,13 +34,41 @@
 	background: #fff;
 	color: rgba(0, 0, 0, .8)
 }
-.home {
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Ubuntu Regular'), local('Ubuntu-Regular'), url(https://cdn.staticaly.com/gh/liburanjogja/external/master/Ubuntu400.woff2) format('woff2');
+}
+
+html, body {
+    font: normal 14.5px / 1.6 'Ubuntu';
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    background: #fff;
+    color: #545454;
+}
+
+.home,body {
 	max-height: 100vh;
 	min-height: 96vh;
 	max-width: 100vw;
 	margin: 0 7vw;
 	letter-spacing: .042em;
-	overflow: hidden
+	overflow: hidden;
+	font: normal 14.5px / 1.6 'Ubuntu';
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    background: #fff;
+    color: #545454;
+    letter-spacing: .04rem;
+    min-width: 100%;
+    overflow-x: hidden;
+    font-smooth: always;
+    -webkit-font-smoothing: antialiased;
+	min-height: @global-100;
 }
 .off {
 	position: absolute;
@@ -78,7 +125,18 @@
 a {
 	background: transparent
 }
+
+.purple {
+	color: #753fd4;
+}
+
+@media (min-width: 52.06em)
+.home, body {
+    margin: 0 18.3vw;
+}
+
 </style>
+
   </head>
 <body>
 	
