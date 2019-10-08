@@ -1,0 +1,3 @@
+# Liburan ke Jogja 
+
+Merencanakan liburan seringkali menyusahkan karena terbatasnya pengetahuan atas wilayah, jarak dan lokasi, durasi perjalanan antar obyek wisata, hingga harga tiket masing-masing obyek wisata yang ada di kota tujuan wisata. Terutama di Jogja. Jogja memiliki banyak obyek wisata yang tersebar dari ujung ke ujung. Memesan paket wisata di https://liburanjogja.co.id/paket-wisata/ untuk rencana liburan di Jogja adalah  solusi agar liburan menjadi lebih terencana dan efektif, seru dan menyenangkan. Keuntungan dari memesan paket wisata adalah Anda tidak perlu pusing dengan segala urusan liburan. Agar Anda bisa bersantai, fokus menikmati liburan.
